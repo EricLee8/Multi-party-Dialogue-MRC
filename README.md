@@ -1,5 +1,5 @@
 # Codes for EMNLP2021
-Codes for our paper Self-supervised Prediction of Speaker and Key-utterance for Multi-party Dialogue Reading Comprehension
+Codes for our paper Self- and Pseudo-Self-supervised Prediction of Speaker and Key-utterance for Multi-party Dialogue Reading Comprehension
 ## Environments
 Our experiments are conducted on the following evironmental settings. To ensure reproductivity, we strongly recommand that you run our code on the same settings.
 - GPU: TITAN RTX 24G
