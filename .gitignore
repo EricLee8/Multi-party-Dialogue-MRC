@@ -6,7 +6,6 @@
 *_save/
 cache_*/
 *logs*/
-data/
 tmp/
 cache/
 *save*/
