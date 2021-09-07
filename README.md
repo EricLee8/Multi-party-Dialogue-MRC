@@ -16,6 +16,8 @@ To run experiments on FriendsQA dataset with the default best hyper-parameter se
 
 `$ cd friendsqa`
 
+`$ unzip data.zip`
+
 `$ python3 myTrain.py --model_type --model_num [0|1]`
 
 Here model_num 0 is the baseline model and model_num 1 is our model. 
@@ -29,6 +31,8 @@ Due to some stochastic factors(e.g., GPU and environment), it may need some slig
 To run experiments on Molweni dataset with the default best hyper-parameter settings, run:
 
 `$ cd molweni`
+
+`$ unzip data.zip`
 
 `$ python3 myTrain.py --model_num [0|1]`
 
