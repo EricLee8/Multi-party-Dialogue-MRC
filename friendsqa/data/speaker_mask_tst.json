@@ -1,0 +1,6518 @@
+{
+  "s03_e21_c03_What-0": {
+    "speaker": "peter becker",
+    "index": 4
+  },
+  "s03_e21_c03_Who-0": {
+    "speaker": "peter becker",
+    "index": 2
+  },
+  "s03_e21_c03_When-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s03_e21_c03_Where-0": {
+    "speaker": "peter becker",
+    "index": 4
+  },
+  "s03_e21_c03_Why-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s03_e21_c03_How-0": {
+    "speaker": "peter becker",
+    "index": 6
+  },
+  "s03_e21_c03_What_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 2
+  },
+  "s03_e21_c03_Who_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s03_e21_c03_When_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 7
+  },
+  "s03_e21_c03_Where_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 5
+  },
+  "s03_e21_c03_Why_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 7
+  },
+  "s03_e21_c03_How_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s04_e22_c16_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c16_What-14": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c16_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c16_Who-14": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c16_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c16_Where-14": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c16_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c16_Why-14": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c16_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c16_How-14": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c16_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c16_When-14": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c16_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c16_What_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c16_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c16_Who_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c16_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c16_When_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c16_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c16_Where_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c16_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c16_Why_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c16_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c16_How_Paraphrased-14": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c08_What-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e21_c08_Who-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s02_e21_c08_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c08_Where-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e21_c08_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c08_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e21_c08_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c08_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e22_c10_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c10_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c10_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c10_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c10_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c10_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c10_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c10_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s01_e21_c12_What-0": {
+    "speaker": "monica geller",
+    "index": 8
+  },
+  "s01_e21_c12_Who-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e21_c12_Where-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e21_c12_How-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e21_c12_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c12_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 9
+  },
+  "s01_e21_c12_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 8
+  },
+  "s01_e21_c12_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e22_c13_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s03_e22_c13_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s03_e22_c13_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s03_e22_c13_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s03_e22_c13_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e22_c13_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c13_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c01_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c01_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s04_e22_c01_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c01_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c01_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c01_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c01_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s04_e22_c01_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c01_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c01_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c01_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c01_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s02_e21_c10_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s02_e21_c10_What-25": {
+    "speaker": "frank buffay jr.",
+    "index": 7
+  },
+  "s02_e21_c10_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e21_c10_Who-25": {
+    "speaker": "frank buffay jr.",
+    "index": 1
+  },
+  "s02_e21_c10_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s02_e21_c10_When-25": {
+    "speaker": "frank buffay jr.",
+    "index": 7
+  },
+  "s02_e21_c10_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 10
+  },
+  "s02_e21_c10_Where-25": {
+    "speaker": "frank buffay jr.",
+    "index": 9
+  },
+  "s02_e21_c10_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 8
+  },
+  "s02_e21_c10_What_Paraphrased-25": {
+    "speaker": "frank buffay jr.",
+    "index": 8
+  },
+  "s02_e21_c10_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 11
+  },
+  "s02_e21_c10_Who_Paraphrased-25": {
+    "speaker": "frank buffay jr.",
+    "index": 6
+  },
+  "s02_e21_c10_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e21_c10_When_Paraphrased-25": {
+    "speaker": "frank buffay jr.",
+    "index": 1
+  },
+  "s02_e21_c10_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 11
+  },
+  "s02_e21_c10_Where_Paraphrased-25": {
+    "speaker": "frank buffay jr.",
+    "index": 4
+  },
+  "s03_e21_c11_What-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s03_e21_c11_What-23": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c11_Who-0": {
+    "speaker": "ross geller",
+    "index": 9
+  },
+  "s03_e21_c11_Who-23": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c11_When-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c11_When-23": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c11_Where-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s03_e21_c11_Where-23": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s03_e21_c11_Why-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c11_Why-23": {
+    "speaker": "rachel green",
+    "index": 7
+  },
+  "s03_e21_c11_How-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c11_How-23": {
+    "speaker": "rachel green",
+    "index": 10
+  },
+  "s03_e21_c11_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s03_e21_c11_What_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c11_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s03_e21_c11_Who_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s03_e21_c11_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c11_When_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s03_e21_c11_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 11
+  },
+  "s03_e21_c11_Where_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 13
+  },
+  "s03_e21_c11_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s03_e21_c11_Why_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c11_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s03_e21_c11_How_Paraphrased-23": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e22_c09_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e22_c09_Who-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c09_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c09_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e22_c09_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c09_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c09_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c09_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c04_What-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c04_Who-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c04_When-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c04_How-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c04_Where-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c04_Why-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c04_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c04_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c04_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c04_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c04_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c04_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e21_c10_What-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c10_Who-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e21_c10_When-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c10_Where-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c10_Why-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s01_e21_c10_How-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c10_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c10_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s01_e21_c10_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c10_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s01_e21_c10_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e22_c09_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c09_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c09_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c09_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c09_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c09_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c09_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c09_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c09_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c09_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c09_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c09_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c10_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 8
+  },
+  "s04_e22_c10_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c10_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 8
+  },
+  "s04_e22_c10_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 7
+  },
+  "s04_e22_c10_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c10_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 8
+  },
+  "s04_e22_c10_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 7
+  },
+  "s04_e22_c10_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 8
+  },
+  "s04_e22_c10_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c10_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s04_e22_c10_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c10_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e21_c15_What-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e21_c15_What-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_Who-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c15_Who-24": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c15_When-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e21_c15_When-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_Where-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e21_c15_Where-24": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c15_Why-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c15_Why-24": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c15_How-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e21_c15_How-24": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c15_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c15_What_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s04_e21_c15_Who_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c15_When_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c15_Where_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c15_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s04_e21_c15_Why_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c15_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c15_How_Paraphrased-24": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c04_What-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c04_Who-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c04_When-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c04_Where-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c04_Why-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c04_How-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c04_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c04_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c04_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c04_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c04_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c04_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c06_What-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c06_Who-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c06_Where-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c06_Why-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c06_How-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c06_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c06_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c06_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c06_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c06_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e22_c13_What-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e22_c13_Who-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s01_e22_c13_When-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s01_e22_c13_Where-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e22_c13_Why-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e22_c13_How-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e22_c13_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e22_c13_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e22_c13_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e22_c13_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s01_e22_c13_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e22_c13_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e22_c05_What-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c05_Who-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s04_e22_c05_Where-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s04_e22_c05_How-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e22_c05_When-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e22_c05_Why-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c05_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c05_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e22_c05_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e22_c05_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e22_c05_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e22_c05_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e21_c06_What-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c06_Who-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c06_Where-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c06_Why-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c06_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e21_c06_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c06_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c06_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e21_c12_What-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e21_c12_Who-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e21_c12_Where-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e21_c12_How-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e21_c12_When-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e21_c12_Why-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e21_c12_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e21_c12_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s02_e21_c12_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e21_c12_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s02_e21_c12_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e21_c12_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c16_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e21_c16_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e21_c16_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e21_c16_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e21_c16_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e21_c16_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e21_c16_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e21_c16_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e21_c06_What-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s03_e21_c06_What-21": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e21_c06_Who-0": {
+    "speaker": "peter becker",
+    "index": 6
+  },
+  "s03_e21_c06_Who-21": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e21_c06_When-0": {
+    "speaker": "peter becker",
+    "index": 4
+  },
+  "s03_e21_c06_When-21": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e21_c06_Where-0": {
+    "speaker": "peter becker",
+    "index": 10
+  },
+  "s03_e21_c06_Where-21": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e21_c06_What_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 10
+  },
+  "s03_e21_c06_What_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e21_c06_Who_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 1
+  },
+  "s03_e21_c06_Who_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s03_e21_c06_When_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 7
+  },
+  "s03_e21_c06_When_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s03_e21_c06_Where_Paraphrased-0": {
+    "speaker": "peter becker",
+    "index": 4
+  },
+  "s03_e21_c06_Where_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c02_What-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e22_c02_Who-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e22_c02_Where-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e22_c02_Why-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e22_c02_How-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c02_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e22_c02_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c02_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c02_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c02_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c01_What-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c01_Who-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c01_Where-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c01_Why-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c01_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c01_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c01_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c01_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c10_What-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s03_e21_c10_Who-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e21_c10_Where-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s03_e21_c10_Why-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s03_e21_c10_How-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e21_c10_When-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e21_c10_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c10_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e21_c10_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 9
+  },
+  "s03_e21_c10_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c10_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c10_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e21_c14_What-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_Who-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_When-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e21_c14_Where-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_Why-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c14_How-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c14_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c14_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c14_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c14_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c16_What-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s04_e21_c16_Who-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c16_When-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s04_e21_c16_Where-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s04_e21_c16_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s04_e21_c16_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c16_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c16_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e22_c05_What-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c05_Who-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c05_When-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e22_c05_Where-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c05_Why-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c05_How-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c05_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e22_c05_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c05_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c05_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c05_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c05_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c04_What-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e22_c04_What-25": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c04_Who-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e22_c04_Who-25": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c04_When-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e22_c04_When-25": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c04_Where-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e22_c04_Where-25": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c04_Why-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e22_c04_Why-25": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c04_How-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e22_c04_How-25": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c04_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e22_c04_What_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c04_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e22_c04_Who_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c04_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e22_c04_When_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c04_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e22_c04_Where_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c04_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e22_c04_Why_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c04_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e22_c04_How_Paraphrased-25": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s01_e21_c02_What-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e21_c02_Who-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s01_e21_c02_Where-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e21_c02_Why-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e21_c02_How-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s01_e21_c02_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s01_e21_c02_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c02_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e21_c02_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c02_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s04_e22_c07_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c07_What-23": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c07_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c07_Who-23": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s04_e22_c07_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s04_e22_c07_Where-23": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s04_e22_c07_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c07_How-23": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c07_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c07_What_Paraphrased-23": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c07_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s04_e22_c07_Who_Paraphrased-23": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c07_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c07_Where_Paraphrased-23": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c07_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c07_How_Paraphrased-23": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s01_e22_c02_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e22_c02_What-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c02_Who-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c02_Who-23": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c02_When-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c02_When-23": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c02_Where-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c02_Where-23": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c02_Why-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c02_Why-23": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c02_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e22_c02_How-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c02_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c02_What_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c02_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c02_Who_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e22_c02_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c02_When_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c02_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e22_c02_Where_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c02_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c02_Why_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c02_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c02_How_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e22_c12_What-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s04_e22_c12_Who-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e22_c12_When-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e22_c12_Where-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c12_Why-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s04_e22_c12_How-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e22_c12_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e22_c12_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c12_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e22_c12_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s04_e22_c12_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e22_c12_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e21_c04_What-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_Who-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_Where-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_Why-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e21_c04_How-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e21_c04_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e21_c04_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e21_c04_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s01_e22_c03_What-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s01_e22_c03_Who-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c03_When-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s01_e22_c03_Why-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c03_How-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c03_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c03_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c03_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c03_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c03_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s02_e21_c11_What-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s02_e21_c11_What-28": {
+    "speaker": "big bully",
+    "index": 1
+  },
+  "s02_e21_c11_Who-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s02_e21_c11_Who-28": {
+    "speaker": "big bully",
+    "index": 2
+  },
+  "s02_e21_c11_When-0": {
+    "speaker": "chandler bing",
+    "index": 10
+  },
+  "s02_e21_c11_When-28": {
+    "speaker": "big bully",
+    "index": 2
+  },
+  "s02_e21_c11_Where-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s02_e21_c11_Where-28": {
+    "speaker": "big bully",
+    "index": 3
+  },
+  "s02_e21_c11_Why-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s02_e21_c11_Why-28": {
+    "speaker": "big bully",
+    "index": 1
+  },
+  "s02_e21_c11_How-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c11_How-28": {
+    "speaker": "big bully",
+    "index": 1
+  },
+  "s02_e21_c11_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e21_c11_What_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 3
+  },
+  "s02_e21_c11_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c11_Who_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 4
+  },
+  "s02_e21_c11_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c11_When_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 4
+  },
+  "s02_e21_c11_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s02_e21_c11_Where_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 2
+  },
+  "s02_e21_c11_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s02_e21_c11_Why_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 4
+  },
+  "s02_e21_c11_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c11_How_Paraphrased-28": {
+    "speaker": "big bully",
+    "index": 4
+  },
+  "s03_e22_c03_What-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e22_c03_What-31": {
+    "speaker": "tommy",
+    "index": 1
+  },
+  "s03_e22_c03_Who-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s03_e22_c03_Who-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_When-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e22_c03_When-31": {
+    "speaker": "tommy",
+    "index": 3
+  },
+  "s03_e22_c03_Where-0": {
+    "speaker": "ross geller",
+    "index": 12
+  },
+  "s03_e22_c03_Where-31": {
+    "speaker": "tommy",
+    "index": 1
+  },
+  "s03_e22_c03_Why-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e22_c03_Why-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_How-0": {
+    "speaker": "ross geller",
+    "index": 12
+  },
+  "s03_e22_c03_How-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s03_e22_c03_What_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 1
+  },
+  "s03_e22_c03_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e22_c03_Who_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s03_e22_c03_When_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e22_c03_Where_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 1
+  },
+  "s03_e22_c03_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s03_e22_c03_Why_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c03_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s03_e22_c03_How_Paraphrased-31": {
+    "speaker": "tommy",
+    "index": 3
+  },
+  "s03_e22_c07_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c07_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c07_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c07_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c07_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s03_e22_c07_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c07_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s03_e22_c07_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c07_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s03_e22_c07_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e21_c01_What-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e21_c01_Who-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e21_c01_Where-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e21_c01_How-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e21_c01_When-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e21_c01_Why-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e21_c01_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e21_c01_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e21_c01_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e21_c01_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e21_c01_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e21_c01_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e22_c15_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c15_What-15": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c15_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_Who-15": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c15_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_Where-15": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c15_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c15_How-15": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s04_e22_c15_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_When-15": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s04_e22_c15_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c15_Why-15": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_What_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s04_e22_c15_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s04_e22_c15_Who_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e22_c15_When_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_Where_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s04_e22_c15_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s04_e22_c15_Why_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s04_e22_c15_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s04_e22_c15_How_Paraphrased-15": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s01_e22_c10_What-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c10_What-20": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s01_e22_c10_Who-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c10_Who-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_When-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c10_When-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_Where-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c10_Where-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_Why-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c10_Why-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_How-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c10_How-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c10_What_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c10_Who_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s01_e22_c10_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c10_When_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s01_e22_c10_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c10_Where_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c10_Why_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e22_c10_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c10_How_Paraphrased-20": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c08_What-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e22_c08_Who-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e22_c08_When-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s03_e22_c08_Where-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e22_c08_Why-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e22_c08_How-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e22_c08_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s03_e22_c08_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c08_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s03_e22_c08_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s03_e22_c08_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e22_c08_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s04_e21_c19_What-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_Who-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_Where-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_How-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c19_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c19_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e21_c08_What-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s03_e21_c08_Who-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e21_c08_When-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s03_e21_c08_Where-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s03_e21_c08_Why-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c08_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 10
+  },
+  "s03_e21_c08_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s03_e21_c08_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s03_e21_c08_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s03_e21_c08_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s04_e21_c21_What-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c21_Who-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c21_When-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c21_Where-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c21_How-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c21_Why-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c21_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c21_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c21_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c21_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e21_c21_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c21_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e21_c04_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s02_e21_c04_What-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s02_e21_c04_Who-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s02_e21_c04_When-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s02_e21_c04_Where-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s02_e21_c04_Why-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c04_How-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s02_e21_c04_What_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c04_Who_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s02_e21_c04_When_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s02_e21_c04_Where_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s02_e21_c04_Why_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c04_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s02_e21_c04_How_Paraphrased-23": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e21_c08_What-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c08_Who-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c08_When-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s04_e21_c08_Where-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c08_Why-0": {
+    "speaker": "#note#",
+    "index": 6
+  },
+  "s04_e21_c08_How-0": {
+    "speaker": "#note#",
+    "index": 8
+  },
+  "s04_e21_c08_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 7
+  },
+  "s04_e21_c08_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c08_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 6
+  },
+  "s04_e21_c08_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c08_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c08_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e21_c07_What-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c07_What-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Who-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e21_c07_Who-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_When-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e21_c07_When-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Where-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e21_c07_Where-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Why-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e21_c07_Why-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_How-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e21_c07_How-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c07_What_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c07_Who_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e21_c07_When_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e21_c07_Where_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e21_c07_Why_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c07_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e21_c07_How_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e22_c04_What-0": {
+    "speaker": "rachel green",
+    "index": 10
+  },
+  "s02_e22_c04_What-32": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e22_c04_Who-0": {
+    "speaker": "rachel green",
+    "index": 10
+  },
+  "s02_e22_c04_Who-32": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e22_c04_Where-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s02_e22_c04_Where-32": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e22_c04_How-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s02_e22_c04_How-32": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e22_c04_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 7
+  },
+  "s02_e22_c04_What_Paraphrased-32": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e22_c04_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e22_c04_Who_Paraphrased-32": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e22_c04_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s02_e22_c04_Where_Paraphrased-32": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e22_c04_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 10
+  },
+  "s02_e22_c04_How_Paraphrased-32": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c29_What-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c29_Who-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c29_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c29_Why-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c29_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c29_When-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c29_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c29_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c29_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c29_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c29_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c29_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e22_c06_What-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e22_c06_Who-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c06_When-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c06_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c06_Why-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c06_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c06_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c06_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e22_c06_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c06_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c06_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e22_c06_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e21_c07_What-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s03_e21_c07_What-22": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c07_Who-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s03_e21_c07_Who-22": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c07_When-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s03_e21_c07_When-22": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c07_Where-0": {
+    "speaker": "chandler bing",
+    "index": 9
+  },
+  "s03_e21_c07_Where-22": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s03_e21_c07_Why-0": {
+    "speaker": "chandler bing",
+    "index": 10
+  },
+  "s03_e21_c07_Why-22": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c07_How-0": {
+    "speaker": "chandler bing",
+    "index": 11
+  },
+  "s03_e21_c07_How-22": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c07_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c07_What_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c07_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e21_c07_Who_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c07_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c07_When_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c07_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c07_Where_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c07_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c07_Why_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c07_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c07_How_Paraphrased-22": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e22_c04_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s04_e22_c04_What-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Who-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c04_Where-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c04_Why-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c04_What_Paraphrased-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c04_Who_Paraphrased-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s04_e22_c04_Where_Paraphrased-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c04_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c04_Why_Paraphrased-19": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c01_What-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s02_e21_c01_Who-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e21_c01_Where-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s02_e21_c01_Why-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e21_c01_When-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c01_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e21_c01_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c01_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e21_c01_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e21_c01_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c03_What-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c03_What-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_Who-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c03_Who-22": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c03_Where-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c03_Where-22": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c03_Why-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s02_e22_c03_Why-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_When-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e22_c03_When-22": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e22_c03_How-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s02_e22_c03_How-22": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e22_c03_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e22_c03_What_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s02_e22_c03_Who_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e22_c03_When_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c03_Where_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e22_c03_Why_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c03_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s02_e22_c03_How_Paraphrased-22": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c03_What-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c03_Who-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c03_When-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c03_Where-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s04_e21_c03_Why-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c03_How-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c03_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c03_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s04_e21_c03_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c03_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c03_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s04_e21_c03_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c18_Who-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c18_When-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c18_Where-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c18_How-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c18_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c18_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c18_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c18_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s01_e21_c03_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e21_c03_Who-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c03_Why-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e21_c03_How-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c03_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e21_c03_Where-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e21_c03_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e21_c03_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e21_c03_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e21_c03_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e21_c03_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e21_c03_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c02_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c02_Who-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c02_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c02_Why-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c02_How-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s03_e21_c02_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e21_c02_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c02_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e21_c02_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c02_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e21_c02_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c02_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e22_c01_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e22_c01_What-20": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c01_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e22_c01_Who-20": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c01_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s03_e22_c01_When-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c01_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_Where-20": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c01_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_Why-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c01_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_How-20": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c01_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_What_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c01_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s03_e22_c01_Who_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c01_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_When_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c01_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s03_e22_c01_Where_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c01_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s03_e22_c01_Why_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c01_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s03_e22_c01_How_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s01_e21_c08_What-0": {
+    "speaker": "fake monica",
+    "index": 4
+  },
+  "s01_e21_c08_What-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Who-0": {
+    "speaker": "fake monica",
+    "index": 2
+  },
+  "s01_e21_c08_Who-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_When-0": {
+    "speaker": "fake monica",
+    "index": 2
+  },
+  "s01_e21_c08_When-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Where-0": {
+    "speaker": "fake monica",
+    "index": 2
+  },
+  "s01_e21_c08_Where-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Why-0": {
+    "speaker": "fake monica",
+    "index": 5
+  },
+  "s01_e21_c08_Why-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_How-0": {
+    "speaker": "fake monica",
+    "index": 2
+  },
+  "s01_e21_c08_How-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_What_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 4
+  },
+  "s01_e21_c08_What_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Who_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Who_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_When_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 7
+  },
+  "s01_e21_c08_When_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Where_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 2
+  },
+  "s01_e21_c08_Where_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_Why_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 3
+  },
+  "s01_e21_c08_Why_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e21_c08_How_Paraphrased-0": {
+    "speaker": "fake monica",
+    "index": 5
+  },
+  "s01_e21_c08_How_Paraphrased-16": {
+    "speaker": "fake monica",
+    "index": 1
+  },
+  "s01_e22_c05_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s01_e22_c05_What-21": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s01_e22_c05_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s01_e22_c05_Who-21": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s01_e22_c05_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s01_e22_c05_Why-21": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s01_e22_c05_How-0": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s01_e22_c05_How-21": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s01_e22_c05_When-0": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s01_e22_c05_When-21": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s01_e22_c05_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s01_e22_c05_What_Paraphrased-21": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s01_e22_c05_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s01_e22_c05_Who_Paraphrased-21": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s01_e22_c05_When_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c05_When_Paraphrased-21": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s01_e22_c05_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c05_Why_Paraphrased-21": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s01_e22_c05_How_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s01_e22_c05_How_Paraphrased-21": {
+    "speaker": "#note#",
+    "index": 6
+  },
+  "s03_e21_c09_What-0": {
+    "speaker": "rachel green",
+    "index": 7
+  },
+  "s03_e21_c09_Who-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s03_e21_c09_When-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s03_e21_c09_Where-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e21_c09_Why-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s03_e21_c09_How-0": {
+    "speaker": "rachel green",
+    "index": 12
+  },
+  "s03_e21_c09_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s03_e21_c09_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 12
+  },
+  "s03_e21_c09_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c09_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 13
+  },
+  "s03_e21_c09_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e21_c09_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 11
+  },
+  "s03_e21_c14_What-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e21_c14_Who-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c14_When-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s03_e21_c14_Where-0": {
+    "speaker": "monica geller",
+    "index": 9
+  },
+  "s03_e21_c14_Why-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c14_How-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c14_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c14_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 10
+  },
+  "s03_e21_c14_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s03_e21_c14_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 11
+  },
+  "s03_e21_c14_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e21_c14_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 9
+  },
+  "s03_e21_c05_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c05_Who-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c05_When-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e21_c05_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c05_Why-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e21_c05_How-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e21_c05_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c05_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e21_c05_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c05_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c05_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c03_What-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c03_What-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Who-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c03_Who-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Where-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c03_Where-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Why-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s02_e21_c03_Why-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_How-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s02_e21_c03_How-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c03_What_Paraphrased-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s02_e21_c03_Who_Paraphrased-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c03_Where_Paraphrased-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e21_c03_Why_Paraphrased-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c03_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s02_e21_c03_How_Paraphrased-25": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c24_What-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c24_Who-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c24_Where-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c24_Why-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c24_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c24_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c24_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c24_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e21_c15_What-0": {
+    "speaker": "ross geller",
+    "index": 11
+  },
+  "s03_e21_c15_What-28": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c15_Who-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c15_Who-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_When-0": {
+    "speaker": "ross geller",
+    "index": 11
+  },
+  "s03_e21_c15_When-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_Where-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s03_e21_c15_Where-28": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c15_Why-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c15_Why-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_How-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e21_c15_How-28": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c15_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s03_e21_c15_What_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s03_e21_c15_Who_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c15_When_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c15_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 11
+  },
+  "s03_e21_c15_Where_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e21_c15_Why_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s03_e21_c15_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s03_e21_c15_How_Paraphrased-28": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c10_What-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s04_e21_c10_Who-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c10_Where-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c10_Why-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c10_When-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c10_How-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c10_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e21_c10_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e21_c10_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c10_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c10_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e21_c10_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e21_c28_What-0": {
+    "speaker": "jack geller",
+    "index": 5
+  },
+  "s04_e21_c28_What-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_Who-0": {
+    "speaker": "jack geller",
+    "index": 4
+  },
+  "s04_e21_c28_Who-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_Where-0": {
+    "speaker": "jack geller",
+    "index": 3
+  },
+  "s04_e21_c28_Where-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_Why-0": {
+    "speaker": "jack geller",
+    "index": 3
+  },
+  "s04_e21_c28_Why-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_When-0": {
+    "speaker": "jack geller",
+    "index": 3
+  },
+  "s04_e21_c28_When-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_How-0": {
+    "speaker": "jack geller",
+    "index": 5
+  },
+  "s04_e21_c28_How-28": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c28_What_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 2
+  },
+  "s04_e21_c28_What_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c28_Who_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 5
+  },
+  "s04_e21_c28_Who_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c28_When_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 4
+  },
+  "s04_e21_c28_When_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c28_Where_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 2
+  },
+  "s04_e21_c28_Where_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c28_Why_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 3
+  },
+  "s04_e21_c28_Why_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c28_How_Paraphrased-0": {
+    "speaker": "jack geller",
+    "index": 1
+  },
+  "s04_e21_c28_How_Paraphrased-28": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s04_e21_c07_What-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c07_Who-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c07_Where-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c07_Why-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c07_How-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c07_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c07_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c07_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c07_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c07_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e22_c02_What-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s04_e22_c02_Who-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s04_e22_c02_Why-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e22_c02_How-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s04_e22_c02_When-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e22_c02_Where-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e22_c02_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e22_c02_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s04_e22_c02_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e22_c02_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s04_e22_c02_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s04_e22_c02_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s04_e21_c23_What-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c23_Who-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c23_When-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c23_Where-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c23_Why-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c23_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c23_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c23_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c23_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c23_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c12_What-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c12_Who-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c12_When-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c12_Where-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c12_Why-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c12_How-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c12_What_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c12_Who_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c12_When_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c12_Where_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c12_Why_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c12_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s03_e22_c12_How_Paraphrased-19": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s02_e22_c07_What-0": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c07_Who-0": {
+    "speaker": "sandra green",
+    "index": 1
+  },
+  "s02_e22_c07_Where-0": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c07_How-0": {
+    "speaker": "sandra green",
+    "index": 5
+  },
+  "s02_e22_c07_What_Paraphrased-0": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c07_Who_Paraphrased-0": {
+    "speaker": "sandra green",
+    "index": 3
+  },
+  "s02_e22_c07_Where_Paraphrased-0": {
+    "speaker": "sandra green",
+    "index": 5
+  },
+  "s02_e22_c07_How_Paraphrased-0": {
+    "speaker": "sandra green",
+    "index": 3
+  },
+  "s04_e21_c26_What-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c26_Who-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c26_When-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c26_Where-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c26_How-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c26_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c26_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c26_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c26_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c26_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s02_e22_c02_What-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c02_What-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Who-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e22_c02_Who-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_When-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e22_c02_When-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Where-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c02_Where-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Why-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e22_c02_Why-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_How-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e22_c02_How-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s02_e22_c02_What_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c02_Who_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c02_When_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c02_Where_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c02_Why_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c02_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c02_How_Paraphrased-21": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s04_e21_c05_What-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_Who-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c05_When-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_Where-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c05_Why-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_How-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c05_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c05_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c05_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c05_How_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s02_e21_c07_What-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s02_e21_c07_What-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c07_Who-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s02_e21_c07_Who-20": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c07_When-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c07_When-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c07_Why-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e21_c07_Why-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c07_How-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c07_How-20": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s02_e21_c07_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s02_e21_c07_What_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c07_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s02_e21_c07_Who_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s02_e21_c07_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s02_e21_c07_When_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s02_e21_c07_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c07_Why_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s02_e21_c07_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s02_e21_c07_How_Paraphrased-20": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s01_e21_c09_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s01_e21_c09_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s01_e21_c09_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s01_e21_c09_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s01_e21_c09_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s01_e21_c09_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s01_e21_c09_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s01_e21_c09_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s01_e21_c09_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s01_e21_c09_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s01_e22_c08_Who-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s01_e22_c08_Who-29": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c08_When-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s01_e22_c08_When-29": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c08_Where-0": {
+    "speaker": "rachel green",
+    "index": 7
+  },
+  "s01_e22_c08_Where-29": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s01_e22_c08_Why-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e22_c08_Why-29": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s01_e22_c08_What-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e22_c08_What-29": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s01_e22_c08_How-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s01_e22_c08_How-29": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s01_e22_c08_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e22_c08_What_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c08_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s01_e22_c08_Who_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s01_e22_c08_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e22_c08_When_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s01_e22_c08_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e22_c08_Where_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 7
+  },
+  "s01_e22_c08_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e22_c08_Why_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c08_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e22_c08_How_Paraphrased-29": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s01_e22_c01_What-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c01_Who-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c01_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c01_Where-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c01_Why-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e22_c01_How-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e22_c01_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s01_e22_c01_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s01_e22_c01_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s01_e22_c01_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s01_e22_c01_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c01_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c12_What-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e22_c12_Who-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s01_e22_c12_Where-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s01_e22_c12_Why-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s01_e22_c12_How-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e22_c12_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s01_e22_c12_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e22_c12_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s01_e22_c12_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s01_e22_c12_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s02_e21_c05_What-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s02_e21_c05_What-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Who-0": {
+    "speaker": "ross geller",
+    "index": 9
+  },
+  "s02_e21_c05_Who-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_When-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s02_e21_c05_When-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Where-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s02_e21_c05_Where-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Why-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e21_c05_Why-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_How-0": {
+    "speaker": "ross geller",
+    "index": 10
+  },
+  "s02_e21_c05_How-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s02_e21_c05_What_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s02_e21_c05_Who_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e21_c05_When_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 9
+  },
+  "s02_e21_c05_Where_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s02_e21_c05_Why_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s02_e21_c05_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 9
+  },
+  "s02_e21_c05_How_Paraphrased-30": {
+    "speaker": "little bully",
+    "index": 1
+  },
+  "s04_e21_c25_What-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c25_Who-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c25_Where-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c25_Why-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c25_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c25_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c25_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c25_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s02_e22_c08_What-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_Who-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c08_Where-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_Why-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_How-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c08_When-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s02_e22_c08_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e22_c08_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e21_c09_What-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c09_Who-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s02_e21_c09_When-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s02_e21_c09_Where-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s02_e21_c09_Why-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e21_c09_How-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c09_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c09_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s02_e21_c09_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c09_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s02_e21_c09_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s02_e21_c09_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e22_c07_What-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c07_Who-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c07_When-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c07_Where-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e22_c07_Why-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c07_How-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c07_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e22_c07_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c07_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c07_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c07_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c07_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c05_What-0": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e21_c05_What-28": {
+    "speaker": "woman",
+    "index": 1
+  },
+  "s01_e21_c05_Who-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e21_c05_Who-28": {
+    "speaker": "woman",
+    "index": 2
+  },
+  "s01_e21_c05_When-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c05_When-28": {
+    "speaker": "woman",
+    "index": 1
+  },
+  "s01_e21_c05_Where-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c05_Where-28": {
+    "speaker": "woman",
+    "index": 3
+  },
+  "s01_e21_c05_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c05_What_Paraphrased-28": {
+    "speaker": "woman",
+    "index": 3
+  },
+  "s01_e21_c05_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e21_c05_Who_Paraphrased-28": {
+    "speaker": "woman",
+    "index": 3
+  },
+  "s01_e21_c05_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e21_c05_When_Paraphrased-28": {
+    "speaker": "woman",
+    "index": 1
+  },
+  "s01_e21_c05_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e21_c05_Where_Paraphrased-28": {
+    "speaker": "woman",
+    "index": 2
+  },
+  "s01_e22_c11_What-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c11_Who-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c11_When-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c11_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e22_c11_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s01_e22_c11_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c11_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c11_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s01_e22_c11_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e22_c11_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e22_c03_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s04_e22_c03_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s04_e22_c03_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s04_e22_c03_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s04_e22_c03_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 11
+  },
+  "s04_e22_c03_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s04_e22_c03_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 8
+  },
+  "s04_e22_c03_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c03_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c03_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c03_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c03_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e21_c22_What-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c22_Who-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c22_Where-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c22_Why-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s04_e21_c22_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c22_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s04_e21_c22_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c22_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e22_c11_What-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e22_c11_What-17": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c11_Who-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s04_e22_c11_Who-17": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c11_When-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e22_c11_When-17": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c11_How-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e22_c11_How-17": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c11_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e22_c11_What_Paraphrased-17": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s04_e22_c11_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s04_e22_c11_Who_Paraphrased-17": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c11_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s04_e22_c11_When_Paraphrased-17": {
+    "speaker": "joey tribbiani",
+    "index": 3
+  },
+  "s04_e22_c11_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s04_e22_c11_How_Paraphrased-17": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s01_e21_c11_What-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e21_c11_Who-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e21_c11_When-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e21_c11_Where-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e21_c11_Why-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e21_c11_How-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c11_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 7
+  },
+  "s01_e21_c11_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s01_e21_c11_When_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s01_e21_c11_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e21_c11_Why_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e21_c11_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c04_What-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c04_What-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c04_Who-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e21_c04_Who-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_When-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s03_e21_c04_When-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_Why-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c04_Why-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_Where-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s03_e21_c04_Where-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c04_How-0": {
+    "speaker": "rachel green",
+    "index": 5
+  },
+  "s03_e21_c04_How-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s03_e21_c04_What_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c04_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c04_Who_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s03_e21_c04_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s03_e21_c04_When_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 8
+  },
+  "s03_e21_c04_Where_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 7
+  },
+  "s03_e21_c04_Why_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c04_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 9
+  },
+  "s03_e21_c04_How_Paraphrased-23": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e22_c06_What-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c06_Who-0": {
+    "speaker": "joey tribbiani",
+    "index": 6
+  },
+  "s03_e22_c06_When-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c06_Where-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s03_e22_c06_Why-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c06_How-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c06_What_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 5
+  },
+  "s03_e22_c06_Who_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c06_When_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 1
+  },
+  "s03_e22_c06_Where_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 7
+  },
+  "s03_e22_c06_Why_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 4
+  },
+  "s03_e22_c06_How_Paraphrased-0": {
+    "speaker": "joey tribbiani",
+    "index": 2
+  },
+  "s02_e21_c02_What-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s02_e21_c02_Who-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c02_Where-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s02_e21_c02_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e21_c02_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e21_c02_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s02_e21_c02_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e21_c02_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s04_e21_c14_What-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c14_Who-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s04_e21_c14_When-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c14_Where-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s04_e21_c14_Why-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c14_How-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c14_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c14_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c14_When_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c14_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c14_Why_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s04_e21_c14_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c11_What-0": {
+    "speaker": "#note#",
+    "index": 11
+  },
+  "s04_e21_c11_Who-0": {
+    "speaker": "#note#",
+    "index": 8
+  },
+  "s04_e21_c11_Where-0": {
+    "speaker": "#note#",
+    "index": 7
+  },
+  "s04_e21_c11_Why-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c11_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s04_e21_c11_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s04_e21_c11_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 10
+  },
+  "s04_e21_c11_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s02_e22_c05_What-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e22_c05_What-17": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e22_c05_What-41": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s02_e22_c05_What-68": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c05_What-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Who-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_Who-17": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e22_c05_Who-41": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s02_e22_c05_Who-68": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c05_Who-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_When-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c05_When-17": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s02_e22_c05_When-41": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e22_c05_When-68": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c05_When-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Where-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s02_e22_c05_Where-17": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s02_e22_c05_Where-41": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c05_Where-68": {
+    "speaker": "sandra green",
+    "index": 1
+  },
+  "s02_e22_c05_Where-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Why-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_Why-17": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s02_e22_c05_Why-41": {
+    "speaker": "phoebe buffay",
+    "index": 3
+  },
+  "s02_e22_c05_Why-68": {
+    "speaker": "sandra green",
+    "index": 4
+  },
+  "s02_e22_c05_Why-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_How-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_How-17": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e22_c05_How-41": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e22_c05_How-68": {
+    "speaker": "sandra green",
+    "index": 6
+  },
+  "s02_e22_c05_How-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_What_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s02_e22_c05_What_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 5
+  },
+  "s02_e22_c05_What_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 1
+  },
+  "s02_e22_c05_What_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_Who_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s02_e22_c05_Who_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e22_c05_Who_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 3
+  },
+  "s02_e22_c05_Who_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_When_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s02_e22_c05_When_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e22_c05_When_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 1
+  },
+  "s02_e22_c05_When_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e22_c05_Where_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 8
+  },
+  "s02_e22_c05_Where_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 4
+  },
+  "s02_e22_c05_Where_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 6
+  },
+  "s02_e22_c05_Where_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e22_c05_Why_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s02_e22_c05_Why_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e22_c05_Why_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 3
+  },
+  "s02_e22_c05_Why_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s02_e22_c05_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s02_e22_c05_How_Paraphrased-17": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s02_e22_c05_How_Paraphrased-41": {
+    "speaker": "phoebe buffay",
+    "index": 6
+  },
+  "s02_e22_c05_How_Paraphrased-68": {
+    "speaker": "sandra green",
+    "index": 3
+  },
+  "s02_e22_c05_How_Paraphrased-88": {
+    "speaker": "leonard green",
+    "index": 1
+  },
+  "s01_e21_c15_What-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s01_e21_c15_Who-0": {
+    "speaker": "casting director no. 2",
+    "index": 1
+  },
+  "s01_e21_c15_Where-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s01_e21_c15_Why-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s01_e21_c15_What_Paraphrased-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s01_e21_c15_Who_Paraphrased-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s01_e21_c15_Where_Paraphrased-0": {
+    "speaker": "casting director no. 2",
+    "index": 1
+  },
+  "s01_e21_c15_Why_Paraphrased-0": {
+    "speaker": "casting director no. 2",
+    "index": 2
+  },
+  "s04_e21_c01_What-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s04_e21_c01_What-24": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_Who-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s04_e21_c01_Who-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_Where-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c01_Where-24": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_How-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_How-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_When-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s04_e21_c01_When-24": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_Why-0": {
+    "speaker": "chandler bing",
+    "index": 8
+  },
+  "s04_e21_c01_Why-24": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s04_e21_c01_What_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s04_e21_c01_Who_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  },
+  "s04_e21_c01_When_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 8
+  },
+  "s04_e21_c01_Where_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s04_e21_c01_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 10
+  },
+  "s04_e21_c01_Why_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e21_c01_How_Paraphrased-24": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s01_e21_c01_What-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c01_Who-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e21_c01_When-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c01_Where-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c01_Why-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s01_e21_c01_How-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c01_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c01_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s01_e21_c01_When_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s01_e21_c01_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 2
+  },
+  "s01_e21_c01_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s01_e21_c01_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s03_e22_c11_What-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e22_c11_Who-0": {
+    "speaker": "#note#",
+    "index": 4
+  },
+  "s03_e22_c11_When-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s03_e22_c11_Where-0": {
+    "speaker": "#note#",
+    "index": 3
+  },
+  "s03_e22_c11_Why-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s03_e22_c11_What_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s03_e22_c11_Who_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s03_e22_c11_When_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 2
+  },
+  "s03_e22_c11_Where_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 5
+  },
+  "s03_e22_c11_Why_Paraphrased-0": {
+    "speaker": "#note#",
+    "index": 1
+  },
+  "s02_e21_c06_What-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e21_c06_Who-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e21_c06_Where-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e21_c06_Why-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e21_c06_What_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e21_c06_Who_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s02_e21_c06_Where_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 2
+  },
+  "s02_e21_c06_Why_Paraphrased-0": {
+    "speaker": "phoebe buffay",
+    "index": 1
+  },
+  "s01_e22_c06_Who-0": {
+    "speaker": "ethan",
+    "index": 8
+  },
+  "s01_e22_c06_Who-27": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c06_Where-0": {
+    "speaker": "ethan",
+    "index": 2
+  },
+  "s01_e22_c06_Where-27": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c06_Why-0": {
+    "speaker": "ethan",
+    "index": 11
+  },
+  "s01_e22_c06_Why-27": {
+    "speaker": "monica geller",
+    "index": 5
+  },
+  "s01_e22_c06_How-0": {
+    "speaker": "ethan",
+    "index": 9
+  },
+  "s01_e22_c06_How-27": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s01_e22_c06_Who_Paraphrased-0": {
+    "speaker": "ethan",
+    "index": 3
+  },
+  "s01_e22_c06_Who_Paraphrased-27": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c06_Where_Paraphrased-0": {
+    "speaker": "ethan",
+    "index": 6
+  },
+  "s01_e22_c06_Where_Paraphrased-27": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s01_e22_c06_Why_Paraphrased-0": {
+    "speaker": "ethan",
+    "index": 1
+  },
+  "s01_e22_c06_Why_Paraphrased-27": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s01_e22_c06_How_Paraphrased-0": {
+    "speaker": "ethan",
+    "index": 11
+  },
+  "s01_e22_c06_How_Paraphrased-27": {
+    "speaker": "monica geller",
+    "index": 2
+  },
+  "s04_e21_c09_What-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c09_Who-0": {
+    "speaker": "rachel green",
+    "index": 3
+  },
+  "s04_e21_c09_Where-0": {
+    "speaker": "rachel green",
+    "index": 4
+  },
+  "s04_e21_c09_How-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s04_e21_c09_What_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s04_e21_c09_Who_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 6
+  },
+  "s04_e21_c09_Where_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 2
+  },
+  "s04_e21_c09_How_Paraphrased-0": {
+    "speaker": "rachel green",
+    "index": 1
+  },
+  "s02_e21_c13_What-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_Who-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s02_e21_c13_Why-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_How-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s02_e21_c13_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s04_e22_c13_What-0": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c13_Who-0": {
+    "speaker": "the stripper",
+    "index": 5
+  },
+  "s04_e22_c13_When-0": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c13_Where-0": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c13_Why-0": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s04_e22_c13_How-0": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c13_What_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s04_e22_c13_Who_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c13_When_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 1
+  },
+  "s04_e22_c13_Where_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 2
+  },
+  "s04_e22_c13_Why_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s04_e22_c13_How_Paraphrased-0": {
+    "speaker": "the stripper",
+    "index": 3
+  },
+  "s03_e22_c09_What-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s03_e22_c09_What-24": {
+    "speaker": "tommy",
+    "index": 6
+  },
+  "s03_e22_c09_Where-0": {
+    "speaker": "ross geller",
+    "index": 4
+  },
+  "s03_e22_c09_Where-24": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c09_Why-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s03_e22_c09_Why-24": {
+    "speaker": "tommy",
+    "index": 1
+  },
+  "s03_e22_c09_How-0": {
+    "speaker": "ross geller",
+    "index": 1
+  },
+  "s03_e22_c09_How-24": {
+    "speaker": "tommy",
+    "index": 3
+  },
+  "s03_e22_c09_Who-0": {
+    "speaker": "ross geller",
+    "index": 3
+  },
+  "s03_e22_c09_Who-24": {
+    "speaker": "tommy",
+    "index": 4
+  },
+  "s03_e22_c09_What_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s03_e22_c09_What_Paraphrased-24": {
+    "speaker": "tommy",
+    "index": 2
+  },
+  "s03_e22_c09_Who_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 7
+  },
+  "s03_e22_c09_Who_Paraphrased-24": {
+    "speaker": "tommy",
+    "index": 6
+  },
+  "s03_e22_c09_Where_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 5
+  },
+  "s03_e22_c09_Where_Paraphrased-24": {
+    "speaker": "tommy",
+    "index": 6
+  },
+  "s03_e22_c09_Why_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s03_e22_c09_Why_Paraphrased-24": {
+    "speaker": "tommy",
+    "index": 5
+  },
+  "s03_e22_c09_How_Paraphrased-0": {
+    "speaker": "ross geller",
+    "index": 6
+  },
+  "s03_e22_c09_How_Paraphrased-24": {
+    "speaker": "tommy",
+    "index": 3
+  },
+  "s03_e21_c12_What-0": {
+    "speaker": "monica geller",
+    "index": 4
+  },
+  "s03_e21_c12_Who-0": {
+    "speaker": "monica geller",
+    "index": 3
+  },
+  "s03_e21_c12_Where-0": {
+    "speaker": "monica geller",
+    "index": 9
+  },
+  "s03_e21_c12_How-0": {
+    "speaker": "monica geller",
+    "index": 6
+  },
+  "s03_e21_c12_What_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c12_Who_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c12_Where_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c12_How_Paraphrased-0": {
+    "speaker": "monica geller",
+    "index": 1
+  },
+  "s03_e21_c13_What-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e21_c13_Who-0": {
+    "speaker": "chandler bing",
+    "index": 5
+  },
+  "s03_e21_c13_Where-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c13_How-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e21_c13_When-0": {
+    "speaker": "chandler bing",
+    "index": 1
+  },
+  "s03_e21_c13_Why-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c13_What_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c13_Who_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 6
+  },
+  "s03_e21_c13_When_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 4
+  },
+  "s03_e21_c13_Where_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 2
+  },
+  "s03_e21_c13_Why_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 3
+  },
+  "s03_e21_c13_How_Paraphrased-0": {
+    "speaker": "chandler bing",
+    "index": 7
+  }
+}
