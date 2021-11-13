@@ -18,7 +18,7 @@ To run experiments on FriendsQA dataset with the default best hyper-parameter se
 
 `$ unzip data.zip`
 
-`$ python3 myTrain.py --model_type --model_num [0|1]`
+`$ python3 myTrain.py --model_num [0|1]`
 
 Here model_num 0 is the baseline model and model_num 1 is our model. 
 
