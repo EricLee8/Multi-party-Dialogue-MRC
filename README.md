@@ -42,3 +42,21 @@ Suggested hyper-parameter settings for grid search:
 
 - mha_layer_nums: [3, 4, 5]
 - learning_rate: [8e-6, 1e-5, 1.2e-5, 1.4e-5]
+
+## Citation
+If you find our paper and this repository useful, please cite us in your paper:
+```
+@inproceedings{li-zhao-2021-self-pseudo,
+    title = "Self- and Pseudo-self-supervised Prediction of Speaker and Key-utterance for Multi-party Dialogue Reading Comprehension",
+    author = "Li, Yiyang  and
+      Zhao, Hai",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.176",
+    doi = "10.18653/v1/2021.findings-emnlp.176",
+    pages = "2053--2063",
+}
+```
